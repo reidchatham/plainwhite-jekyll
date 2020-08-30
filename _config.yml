@@ -24,7 +24,7 @@ plainwhite:
 
   navigation:
     - title: About
-      url: "/about.md"
+      url: "/about"
       
   # generate social links in footer
   social_links:

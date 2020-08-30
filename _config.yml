@@ -20,6 +20,7 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/E1561FBE-29FB-494E-81D0-16D08822D8AB.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  analytics_id: "UA-88659135-1"
 
   # generate social links in footer
   social_links:
@@ -46,8 +47,8 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+- about.md
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll

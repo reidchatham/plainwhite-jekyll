@@ -26,7 +26,7 @@ plainwhite:
     - title: About
       url: "/about"
     - title: Blog
-      url: "https://blog.reidchatham.com
+      url: "http://blog.reidchatham.com"
       
   # generate social links in footer
   social_links:
